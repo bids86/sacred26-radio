@@ -1,0 +1,18 @@
+{
+  "name": "daily-stream-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.6.1",
+    "ffmpeg-static": "^5.2.0",
+    "googleapis": "^128.0.0",
+    "node-cron": "^3.0.3",
+    "opusscript": "^0.0.8",
+    "sodium-native": "^5.0.9"
+  }
+}
